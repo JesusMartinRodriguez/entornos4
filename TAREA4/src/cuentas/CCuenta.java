@@ -1,5 +1,14 @@
 package cuentas;
 
+/**
+ * 
+ * @author JesusMartin
+ * @version 1.0
+ * @since 5/01/2020
+ * 
+ */
+
+
 public class CCuenta {
 
 	private String nombre;
